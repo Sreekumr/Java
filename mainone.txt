@@ -1,0 +1,9 @@
+import java.io.*;
+class Mainone {
+
+public static void main(String [] args)
+{
+
+System.out.printf("Enter your name);
+}
+}
